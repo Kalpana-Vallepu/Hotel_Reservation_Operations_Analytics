@@ -276,7 +276,3 @@ The findings and recommendations can support hospitality businesses in improving
 ## Author
 
 Kalpana Vallepu
-
-Technical Skills: Python, SQL, MySQL, Microsoft Excel, Power BI and Exploratory Data Analysis (EDA)
-
-LinkedIn: [Kalpana Vallepu](https://www.linkedin.com/in/kalpana-vallepu-5300312a6)
